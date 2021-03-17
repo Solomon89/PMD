@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lection2</string>
+    <string name="Random_label">Получаем рандомный номер от 0 до %1d</string>
+</resources>
